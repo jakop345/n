@@ -1,8 +1,5 @@
 <?php
-// Video download script, php version - Copyright (C) 2015 Daniil Gentili
-// This program comes with ABSOLUTELY NO WARRANTY.
-// This is free software, and you are welcome to redistribute it
-// under certain conditions; see https://github.com/danog/video-dl/raw/master/LICENSE.
+
 
 ini_set("log_errors", 1);
 ini_set("error_log", "/tmp/php-error_api.log");
@@ -125,7 +122,7 @@ $yt";
  </style>
 </head>
 <body>
- <img src="//daniil.it/img/profile.png" alt=""><br><a href="http://daniil.it">Video download API server created by Daniil Gentili</a><br><a href="http://daniil.it/video-dl/#api">How to use this api</a><br><a href="https://github.com/danog/video-dl/tree/master/api">Source code on GitHub</a>
+
 </body>
 ';
 }
